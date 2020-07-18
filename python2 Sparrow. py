@@ -149,8 +149,9 @@ print  """\
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = Sparrow
-CorrectPassword =Sparrow
+Correct username = Jack
+
+CorrectPassword = Jack
 
 loop = 'true'
 while (loop == 'true'):
